@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+img {
+  transition: transform .2s;
+}
+
+
+
+img:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
+
+/******************/
+@media screen and (max-width: 560px) {
+	.container-fluid {
+		padding-top: 30px;
+	}
+}
+
+@media screen and (max-width: 431px) {
+	.container-fluid {
+		padding-top: 70px;
+	}
+}
