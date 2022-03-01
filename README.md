@@ -1,6 +1,6 @@
 # VORWERK
-Si propone di realizzare un sito web per la compravendita di robot da cucina, con lo scopo di:
+It is proposed to create a website for the sale of food processors, with the aim of:
 
-- Offrire all'utente la possibilità di comprare i prodotti e successivamente accumulare punti, eventualmente da utilizzare per ottenere dei premi nell'apposito catalogo;
+- Offer the user the opportunity to purchase products and subsequently accumulate points, possibly to be used to obtain prizes in the appropriate catalog;
 
-- Permettere, inoltre, al gestore dei prodotti di aggiungere, rimuovere e modificare i prodotti messi a disposizione sul nostro sito.
+- Also allow the product manager to add, remove and modify our products made available on the site.
